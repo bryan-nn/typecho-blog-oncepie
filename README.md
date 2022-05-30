@@ -1,2 +1,0 @@
-# typecho-blog-oncepie
- 
